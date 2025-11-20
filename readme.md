@@ -3,7 +3,7 @@
 ## Overview
 **Trackr** is a front-end demo application built with **Angular**, **TypeScript**, and **CSS**. The app connects to a currency tracking API and provides a visual demonstration of currency data tracking. It includes features for toggling themes and generating demo data to showcase charts and graphs in a user-friendly interface.
 
-Visit TRACKR here: https://my-portfolio-unp7.vercel.app.
+Visit TRACKR here: https://02-expense-tracker-revamp.vercel.app
 ---
 
 ## Tech Stack
